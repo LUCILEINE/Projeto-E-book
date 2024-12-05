@@ -1,16 +1,17 @@
 <p align="center">
-    <img width="100" src="C:\Users\lucil\OneDrive\Documentos\MeusProjetos\Projeto-E-book\Ativos\Banner_Book.png">
+    <img width="100" src="Ativos\Banner_Book.png">
 </p>
-
 <p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+<a href="https://www.instagram.com/lucileine.carvalho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.tiktok.com/@lucileine_" target="_blank"><img src="https://img.shields.io/badge/-Tiktok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucileine-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </p>
 
 -------
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="Ativos\Cover_Book.png"
     width="400"  
 />
 </p>
@@ -23,7 +24,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, todos os prompts
 seguem abaixo.
 
-<a href="C:\Users\lucil\OneDrive\Documentos\MeusProjetos\Projeto-E-book\E-Book_Tech\E-Book_De-Repente-Tech.pdf" title="E-Book_Tech\E-Book_De-Repente-Tech.pdf"> 
+<a href="E-Book_Tech\E-Book_De-Repente-Tech.pdf" title="E-Book_Tech\E-Book_De-Repente-Tech.pdf"> 
 
 📕Clique aqui para ler</a>
 
@@ -64,7 +65,9 @@ Meta Ai：
 - Imagens utilizadas em `ativos`
 - E-book gerado durante curso on-line `output`
 
+## 🛠️ Instruções de execução
 
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Expert
 
