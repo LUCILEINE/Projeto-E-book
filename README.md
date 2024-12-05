@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="Ativos\Banner_Book.png">
+    <img width="100" src="Ativos\Banner_Book.png"/>
 </p>
 <p align="center">
 <a href="https://www.instagram.com/lucileine.carvalho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/lucileine-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </p>
 
--------
+---------------
 
 <p align="center">
 <img 
@@ -21,11 +21,11 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um curso on-line do projeto [BootCamp](https://web.dio.me/play?section_type=bootcamp) da plataforma [DIO](https://dio.me) em parceria com a [Caixa](https://caixanoticias.caixa.gov.br/Paginas/Not%C3%ADcias/2024/10-OUTUBRO/CAIXA-oferece-bolsas-de-estudo-para-aprendizado-acelerado-em-tecnologia.aspx) e a [Microsoft](https://www.microsoft.com/pt-br/).
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, todos os prompts
-seguem abaixo.
+Este projeto tem como objetivo explorar o potencial da inteligência artificial na criação de e-books digitais. Utilizando ferramentas de IA, geramos um conteúdo rico e personalizado, a partir de uma série de prompts específicos. 
 
-<a href="E-Book_Tech\E-Book_De-Repente-Tech.pdf" title="E-Book_Tech\E-Book_De-Repente-Tech.pdf"> 
+A seguir, apresentamos os prompts utilizados neste projeto:
 
+<a href="C:\Users\lucil\OneDrive\Documentos\MeusProjetos\Projeto-E-book\E-Book_Tech\E-Book_De-Repente-Tech.pdf" title="E-BOOK DE REPENTE TECH">
 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
