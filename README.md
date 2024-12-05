@@ -25,7 +25,7 @@ Este projeto tem como objetivo explorar o potencial da inteligência artificial 
 
 A seguir, apresentamos os prompts utilizados neste projeto:
 
-<a href="C:\Users\lucil\OneDrive\Documentos\MeusProjetos\Projeto-E-book\E-Book_Tech\E-Book_De-Repente-Tech.pdf" title="E-BOOK DE REPENTE TECH">
+<a href="https://github.com/LUCILEINE/Projeto-E-book/blob/main/E-Book_Tech/E-Book_De-Repente-Tech.pdf" title="E-BOOK DE REPENTE TECH">
 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -38,15 +38,12 @@ A seguir, apresentamos os prompts utilizados neste projeto:
 
 ## 🧠 Prompts
 
-
 ChatGPT：
 
 |   Ação   | Prompt                                                                                 |
 | :------: | -------------------------------------------------------------------------------------- |
 |  título  | Crie um título para um e-book sobre o tema transição de carreira e subnicho de primeiros passos com IA Genetativa, eu quero que o título seja épico, curto e enxuto, e tenha uma temática mais feminina inspirado no filme "De Repente 30", me liste 5 variações de títulos.                                                   |
-| conteúdo | Crie um artigo para e-book sobre os primeiros passos com a IA Generativa, para um público feminino de 40 anos em transição de carreira da contabilidade para a tecnologia. Use linguagem clara, sem termos técnicos; Use analogias simples e hipérboles; Escreva com emoção e com senso de urgência e importância; Crie referências com o Filme: De Repente 30 (13 Going 30); Lembre de citar o título: De Repente Tech; E o subtítulo: IA Generativa Para um Novo Começo.
-|
-
+| conteúdo | Crie um artigo para e-book sobre os primeiros passos com a IA Generativa, para um público feminino de 40 anos em transição de carreira da contabilidade para a tecnologia. Use linguagem clara, sem termos técnicos; Use analogias simples e hipérboles; Escreva com emoção e com senso de urgência e importância; Crie referências com o Filme: De Repente 30 (13 Going 30); Lembre de citar o título: De Repente Tech; E o subtítulo: IA Generativa Para um Novo Começo.|
 
 Meta Ai：
 
