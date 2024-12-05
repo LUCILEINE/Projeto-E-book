@@ -41,8 +41,8 @@ A seguir, apresentamos os prompts utilizados neste projeto:
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                              |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   Ação   | Prompt                                                                                 |
+| :------: | -------------------------------------------------------------------------------------- |
 |  título  | Crie um título para um e-book sobre o tema transição de carreira e subnicho de primeiros passos com IA Genetativa, eu quero que o título seja épico, curto e enxuto, e tenha uma temática mais feminina inspirado no filme "De Repente 30", me liste 5 variações de títulos.                                                   |
 | conteúdo | Crie um artigo para e-book sobre os primeiros passos com a IA Generativa, para um público feminino de 40 anos em transição de carreira da contabilidade para a tecnologia. Use linguagem clara, sem termos técnicos; Use analogias simples e hipérboles; Escreva com emoção e com senso de urgência e importância; Crie referências com o Filme: De Repente 30 (13 Going 30); Lembre de citar o título: De Repente Tech; E o subtítulo: IA Generativa Para um Novo Começo.
 |
@@ -50,7 +50,7 @@ ChatGPT：
 
 Meta Ai：
 
-|  Ação  | prompt                                                                                 |
+|  Ação  | Prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | título | Create a tech-focused image of a 40-year-old African-American or ethnically diverse woman wearing a chic, professional outfit, holding a laptop and a cup of coffee, standing in front of a bright, colorful New York City backdrop, incorporating elements of: - Times Square or the city skyline - Sunset or golden hour lighting - Bold, modern typography - Vibrant colors (pink, orange, yellow) - Inspired by the movie 13 Going on 30 (Jenna Rink). For e-book cover: vertical size, high resolution.|
 
@@ -62,8 +62,8 @@ Meta Ai：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `ativos`
-- E-book gerado durante curso on-line `output`
+- Imagens utilizadas em `Ativos`
+- E-book gerado durante curso on-line `E-Book Tech`
 
 ## 🛠️ Instruções de execução
 
